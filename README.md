@@ -199,7 +199,7 @@ int main()
 ```
 
 ## OUTPUT:
-<img width="662" height="317" alt="image" src="https://github.com/user-attachments/assets/bccc2d46-bf94-4235-ab88-6651f5f74a3b" />
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/c9646fe8-574e-4a9c-9b14-1fd94f5b8791" />
 
 
 ## RESULT:
